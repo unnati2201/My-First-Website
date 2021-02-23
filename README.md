@@ -1,2 +1,2 @@
-# my-first-website
+# responsive-website
 #You can preview the website using the URL https://weblop.netlify.app/
